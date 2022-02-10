@@ -79,7 +79,7 @@ export const StyledImg = styled.img`
   border: 4px dashed var(--secondary);
   background-color: var(--accent);
   border-radius: 100%;
-  width: 100px;
+  width: 50px;
   @media (min-width: 900px) {
     width: 250px;
   }
