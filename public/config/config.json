@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0xb1E82e6fC18a8B70286637ecCB4B19C818bcC3cC",
-  "SCAN_LINK": "https://polygonscan.com/token/0xB06296f7aE124BE10ECC9301e49e5BfE13C377Ba",
+  "CONTRACT_ADDRESS": "0xA1E38E55c7Ce429D3CbA9ee8B618f23f4EE7a1D5",
+  "SCAN_LINK": "https://etherscan.io/address/0xA1E38E55c7Ce429D3CbA9ee8B618f23f4EE7a1D5",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
     "ID": 1
   },
   "NFT_NAME": "SaveTreesNFT",
-  "SYMBOL": "NFT",
+  "SYMBOL": "ST",
   "MAX_SUPPLY": 1000,
   "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.05,
+  "DISPLAY_COST": 0.03,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/savetreesnft",
